@@ -4,7 +4,7 @@ layout: default
 
 # Afsar Mahmud
 
-**R&D Engineer | Manufacturing-Aware Computational Design | Multiphysics Simulation | Additive Manufacturing**
+**R&D Engineer | Manufacturing-Aware Computational Design | Multiphysics Simulation | Additive Manufacturing | Thermal–Fluid Systems |
 
 I am an R&D Engineer at **Walton Hi-Tech Industries PLC** with over **six years of industry-focused research and development experience** in mechanical engineering. My work centers on **computationally driven design and optimization of engineering components under real manufacturing and operational constraints**, bridging simulation, design, and production.
 
