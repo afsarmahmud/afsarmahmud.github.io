@@ -84,7 +84,7 @@ An **additive-manufacturing-compatible design** was identified, demonstrating ho
 This project focused on the **thermal system redesign of upright freezer platforms**, emphasizing airflow management and evaporator cover optimization. **CFD-based analysis** was used to guide geometry modifications aimed at improving cooling uniformity and reducing energy consumption under operational constraints.
 
 ---
-## Thermal–Fluid Research
+## Undergraduate Research 
 
 ### Transient CFD Analysis of a Closed-Loop Pulsating Heat Pipe (CLPHP)  
 *Accepted — ICMMPE 2026*
