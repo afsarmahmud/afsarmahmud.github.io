@@ -11,6 +11,20 @@ My research focuses on **manufacturing-aware computational engineering**, where 
 
 ## Selected Flagship Projects
 
+### Thermal System Design & Optimization of a 193L Refrigerator Platform  
+*Lead R&D Engineer — Walton Hi-Tech Industries PLC (2023–2024)*
+
+This project involved end-to-end **thermal–fluid system design and optimization** of a household refrigerator platform, integrating **CFD-based airflow analysis, evaporator optimization, insulation thickness refinement, and mechanical validation** under real production constraints.
+
+Coupled **CFD and FEA workflows** were used to optimize evaporator geometry, airflow distribution, insulation thickness, and structural layout. **Rapid prototyping (FDM)** and DFM-oriented iteration were employed to accelerate validation and reduce design-cycle time.
+
+**Outcome:**  
+- 15% reduction in annual energy consumption (143 kWh → 122 kWh)  
+- ~10% reduction in material usage through structural optimization  
+- ~3 weeks reduction in design iteration time  
+
+---
+
 ### Topology Optimization of Injection-Molded Structural Components for 190L Refrigerator Development  
 *Lead R&D Engineer — Walton Hi-Tech Industries PLC*
 
@@ -49,21 +63,7 @@ The work established **DFAM-oriented design guidelines** and demonstrated how ad
 
 ---
 
-## Thermal–Fluid Research
-
-### Thermal System Design & Optimization of a 193L Refrigerator Platform  
-*Lead R&D Engineer — Walton Hi-Tech Industries PLC (2023–2024)*
-
-This project involved end-to-end **thermal–fluid system design and optimization** of a household refrigerator platform, integrating **CFD-based airflow analysis, evaporator optimization, insulation thickness refinement, and mechanical validation** under real production constraints.
-
-Coupled **CFD and FEA workflows** were used to optimize evaporator geometry, airflow distribution, insulation thickness, and structural layout. **Rapid prototyping (FDM)** and DFM-oriented iteration were employed to accelerate validation and reduce design-cycle time.
-
-**Outcome:**  
-- 15% reduction in annual energy consumption (143 kWh → 122 kWh)  
-- ~10% reduction in material usage through structural optimization  
-- ~3 weeks reduction in design iteration time
-
----
+## Notable projects
 
 ### Multiphysics Optimization of an Evaporator Cover Assembly  
 *Industry R&D Project (2024–2025)*
@@ -84,6 +84,7 @@ An **additive-manufacturing-compatible design** was identified, demonstrating ho
 This project focused on the **thermal system redesign of upright freezer platforms**, emphasizing airflow management and evaporator cover optimization. **CFD-based analysis** was used to guide geometry modifications aimed at improving cooling uniformity and reducing energy consumption under operational constraints.
 
 ---
+## Thermal–Fluid Research
 
 ### Transient CFD Analysis of a Closed-Loop Pulsating Heat Pipe (CLPHP)  
 *Accepted — ICMMPE 2026*
