@@ -11,7 +11,7 @@ My research focuses on **manufacturing-aware computational engineering**, where 
 
 ## Selected Flagship Projects
 
-### Topology Optimization of Injection-Molded Structural Components for 190L Refrigerator development 
+### Topology Optimization of Injection-Molded Structural Components for 190L Refrigerator Development  
 *Lead R&D Engineer — Walton Hi-Tech Industries PLC*
 
 This project involved the complete redesign of a load-bearing refrigerator cabinet base, transitioning from a metallic structure to an injection-molded polymer component. Rather than directly translating the original geometry, the design was re-conceptualized using **stress-path–guided reasoning and topology optimization**, informed by manufacturing constraints inherent to injection molding.
@@ -43,13 +43,47 @@ Using **FEA–CFD workflows**, I evaluated geometry, material selection, and bou
 ### Lattice-Enabled Design for Additive Manufacturing  
 *Design for Additive Manufacturing (DFAM) Study*
 
-This project explored the use of **lattice and architected structures** to enhance mechanical performance and airflow characteristics in additively manufactured components. By integrating **computational design with coupled CFD–FEA analysis**, I investigated how lattice topology influences stiffness, permeability, and thermal-fluid behavior.
+This project explored the use of **lattice and architected structures** to enhance mechanical performance and airflow characteristics in additively manufactured components. By integrating **computational design with coupled CFD–FEA analysis**, I investigated how lattice topology influences stiffness, permeability, and thermal–fluid behavior.
 
 The work established **DFAM-oriented design guidelines** and demonstrated how additive manufacturing can be leveraged not only for prototyping, but as a design-enabling manufacturing route when paired with simulation-driven optimization.
 
 ---
 
 ## Thermal–Fluid Research
+
+### Thermal System Design & Optimization of a 193L Refrigerator Platform  
+*Lead R&D Engineer — Walton Hi-Tech Industries PLC (2023–2024)*
+
+This project involved end-to-end **thermal–fluid system design and optimization** of a household refrigerator platform, integrating **CFD-based airflow analysis, evaporator optimization, insulation thickness refinement, and mechanical validation** under real production constraints.
+
+Coupled **CFD and FEA workflows** were used to optimize evaporator geometry, airflow distribution, insulation thickness, and structural layout. **Rapid prototyping (FDM)** and DFM-oriented iteration were employed to accelerate validation and reduce design-cycle time.
+
+**Outcome:**  
+- 15% reduction in annual energy consumption (143 kWh → 122 kWh)  
+- ~10% reduction in material usage through structural optimization  
+- ~3 weeks reduction in design iteration time
+
+---
+
+### Multiphysics Optimization of an Evaporator Cover Assembly  
+*Industry R&D Project (2024–2025)*
+
+This study focused on **thermo-mechanical optimization** of an evaporator cover assembly, addressing the coupled effects of thermal gradients, structural stiffness, and manufacturability. Simulation-driven refinement was used to balance rigidity, thermal response, and material efficiency under operational loading.
+
+An **additive-manufacturing-compatible design** was identified, demonstrating how DFAM-informed geometry refinement can improve both mechanical performance and manufacturability.
+
+**Outcome:**  
+- 12% reduction in component weight  
+- Improved rigidity under service conditions
+
+---
+
+### Thermal System Upgrade of Upright Freezers (334L & 272L)  
+*Industry R&D Project (2025)*
+
+This project focused on the **thermal system redesign of upright freezer platforms**, emphasizing airflow management and evaporator cover optimization. **CFD-based analysis** was used to guide geometry modifications aimed at improving cooling uniformity and reducing energy consumption under operational constraints.
+
+---
 
 ### Transient CFD Analysis of a Closed-Loop Pulsating Heat Pipe (CLPHP)  
 *Accepted — ICMMPE 2026*
