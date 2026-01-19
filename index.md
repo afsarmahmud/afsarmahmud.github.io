@@ -4,25 +4,19 @@ layout: default
 
 # Afsar Mahmud
 
-**R&D Engineer | Thermal–Fluid Systems | Computational Mechanics | Design & Manufacturing | Additive Manufacturing**
+**R&D Engineer | Manufacturing-Aware Computational Design | Multiphysics Simulation | Additive Manufacturing**
 
-I am an R&D Engineer at **Walton Hi-Tech Industries PLC** with over **six years of industry-focused research and development experience** in mechanical engineering. My work spans **thermal–fluid systems**, **computational mechanics**, and **design for manufacturing**, with an emphasis on applying simulation-driven methods to real-world product development.
+I am an R&D Engineer at **Walton Hi-Tech Industries PLC** with over **six years of industry-focused research and development experience** in mechanical engineering. My work centers on **computationally driven design and optimization of engineering components under real manufacturing and operational constraints**, bridging simulation, design, and production.
 
-I have worked extensively with **CFD**, **FEA**, and multiphysics analysis to support thermal optimization, structural integrity, and manufacturability of engineering components. In parallel, I have experience with **additive manufacturing and rapid prototyping** for design validation and iterative development.
+My research experience spans **computational mechanics, thermal–fluid systems, and multiphysics simulation**, with a strong emphasis on **design for manufacturing (DFM/DFMEA)** and **physics-informed optimization**. Rather than treating simulation and manufacturing as separate stages, my work integrates **FEA- and CFD-based analysis directly into the design decision-making process**, ensuring structural integrity, thermal performance, and manufacturability are addressed simultaneously.
 
-My research interests are centered on **applied, industry-integrated engineering problems**, particularly where numerical simulation, design optimization, and manufacturing considerations intersect.
+I have led and contributed to projects involving **topology- and stress-path–inspired structural design**, **thermo-mechanical optimization**, and **transient multiphase CFD analysis**, including an **accepted peer-reviewed conference paper on closed-loop pulsating heat pipes (ICMMPE 2026)**. I also actively employ **additive manufacturing and rapid prototyping** to validate optimized designs and accelerate design iteration in industrial R&D workflows.
 
----
-
-### Research Interests
-- Thermal management and heat transfer  
-- Computational mechanics and finite element analysis  
-- Design for manufacturing (DFM/DFMEA)  
-- Additive manufacturing and rapid prototyping  
-- Multiphysics simulation for product development  
+My long-term research interests lie in **applied, manufacturing-aware computational engineering**, particularly at the intersection of **structural mechanics, thermal–fluid systems, advanced manufacturing, and product development**, with the goal of translating simulation-driven insights into robust, production-ready designs.
 
 ---
 
 📘 [Research & Projects](research.html)  
 📄 [Publications](publications.html)  
 📑 [Curriculum Vitae](cv.html)
+
