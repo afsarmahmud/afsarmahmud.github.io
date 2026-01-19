@@ -1,0 +1,16 @@
+title: Afsar Mahmud
+email: afsar224@gmail.com
+
+description: >-
+  R&D Engineer with experience in thermal-fluid systems, computational mechanics,
+  design and manufacturing, and additive manufacturing.
+
+url: "https://afsarmahmud.github.io"
+
+markdown: kramdown
+theme: minima
+
+header_pages:
+  - research.md
+  - publications.md
+  - cv.md
