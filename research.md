@@ -40,6 +40,23 @@ My work integrated **static structural analysis, vibration assessment, and expli
 
 ---
 
+### Process–Structure–Property Optimization of Zinc-Coated Mild Steel Tubes  
+*Industrial Materials Research Project*
+
+This project focused on restoring and enhancing the ductility of **cold-drawn, zinc-coated mild steel tubes** used in refrigeration condenser applications, where premature cracking during bending and assembly posed a major manufacturing challenge.
+
+I designed **controlled annealing cycles and composition-optimization studies** to investigate the coupled effects of thermal processing and carbon content on microstructural evolution and mechanical performance. By systematically refining annealing parameters and reducing carbon content from **0.10% to 0.05%**, the work established clear **process–structure–property relationships** governing deformation behavior and failure resistance.
+
+The optimized processing route improved tensile elongation from approximately **25–30% to over 40%**, enabling reliable bending and assembly without compromising corrosion resistance. These findings were translated into **practical manufacturing guidelines**, directly supporting high-volume, defect-free production of condenser tubes.
+
+**Outcome:**  
+- Restoration of ductility in zinc-coated steel tubes for forming operations  
+- Tensile elongation improved from ~25–30% to >40%  
+- Establishment of process–structure–property relationships  
+- Implementation-ready guidelines for industrial tube manufacturing
+
+---
+
 ### Multiphysics Optimization of Thermo-Mechanical Appliance Components  
 *Industry R&D Project*
 
