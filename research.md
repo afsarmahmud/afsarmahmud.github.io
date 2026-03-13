@@ -70,6 +70,43 @@ Using **FEA–CFD workflows**, I evaluated geometry, material selection, and bou
 - Improved thermal robustness without added material cost
 
 ---
+## Python-Based FEA Post-Processing for Structural Analysis
+
+<div style="display:flex; gap:40px; align-items:flex-start;">
+
+<div style="flex:1;">
+
+<p>
+Developed a Python workflow to automate post-processing of finite element analysis (FEA) simulation data. The script imports structural simulation results and evaluates key mechanical performance metrics including maximum displacement, Von Mises stress, and factor of safety, while generating visualizations of structural response.
+</p>
+
+<b>Key Features</b>
+
+<ul>
+<li>Import FEA simulation results from CSV files</li>
+<li>Maximum displacement evaluation</li>
+<li>Von Mises stress calculation</li>
+<li>Factor of safety estimation based on material yield strength</li>
+<li>Visualization of structural response distributions</li>
+</ul>
+
+</div>
+
+<div style="flex:1; text-align:center;">
+
+<b>Example Outputs</b>
+
+<br><br>
+
+<img src="displacement_distribution.png" width="75%">
+
+<br><br>
+
+<img src="von_mises_stress.png" width="75%">
+
+</div>
+
+</div>
 
 ## Notable projects
 
