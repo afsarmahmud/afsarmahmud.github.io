@@ -102,6 +102,15 @@ Developed a Python workflow to automate post-processing of computational fluid d
 - Reynolds number estimation based on velocity data
 - Flow regime classification (laminar / transitional / turbulent)
 - Visualization of velocity and temperature distributions
+**Example Output**
+
+Velocity distribution along the pipe:
+
+![Velocity Profile](velocity_profile.png)
+
+Temperature distribution along the pipe:
+
+![Temperature Profile](temperature_profile.png)
 
 ## Research Themes & Methods
 
