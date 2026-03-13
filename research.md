@@ -71,29 +71,7 @@ Using **FEA–CFD workflows**, I evaluated geometry, material selection, and bou
 
 ---
 
-### Lattice-Enabled Design for Additive Manufacturing  
-*Design for Additive Manufacturing (DFAM) Study*
-
-This project explored the use of **lattice and architected structures** to enhance mechanical performance and airflow characteristics in additively manufactured components. By integrating **computational design with coupled CFD–FEA analysis**, I investigated how lattice topology influences stiffness, permeability, and thermal–fluid behavior.
-
-The work established **DFAM-oriented design guidelines** and demonstrated how additive manufacturing can be leveraged not only for prototyping, but as a design-enabling manufacturing route when paired with simulation-driven optimization.
-
----
-
 ## Notable projects
-
-### Multiphysics Optimization of an Evaporator Cover Assembly  
-*Industry R&D Project (2024–2025)*
-
-This study focused on **thermo-mechanical optimization** of an evaporator cover assembly, addressing the coupled effects of thermal gradients, structural stiffness, and manufacturability. Simulation-driven refinement was used to balance rigidity, thermal response, and material efficiency under operational loading.
-
-An **additive-manufacturing-compatible design** was identified, demonstrating how DFAM-informed geometry refinement can improve both mechanical performance and manufacturability.
-
-**Outcome:**  
-- 12% reduction in component weight  
-- Improved rigidity under service conditions
-
----
 
 ### Thermal System Upgrade of Upright Freezers (334L & 272L)  
 *Industry R&D Project (2025)*
@@ -113,6 +91,17 @@ Parametric studies examined the effects of **evaporator heat flux, filling ratio
 This work strengthened my expertise in **multiphysics modeling, numerical validation, and interpretation of complex transient phenomena**, which directly informs my broader research in coupled thermal–mechanical systems.
 
 ---
+## Python-Based CFD Post-Processing for Pipe Flow Analysis
+
+Developed a Python workflow to automate post-processing of computational fluid dynamics (CFD) simulation data, including pressure drop calculation, Reynolds number estimation, flow regime classification, and visualization of velocity and temperature distributions.
+
+**Key Features**
+
+- Import CFD simulation data from CSV files
+- Automatic pressure drop calculation
+- Reynolds number estimation based on velocity data
+- Flow regime classification (laminar / transitional / turbulent)
+- Visualization of velocity and temperature distributions
 
 ## Research Themes & Methods
 
