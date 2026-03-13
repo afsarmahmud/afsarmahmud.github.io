@@ -93,29 +93,37 @@ This work strengthened my expertise in **multiphysics modeling, numerical valida
 ---
 ## Python-Based CFD Post-Processing for Pipe Flow Analysis
 
-<div style="display:flex; gap:30px; align-items:flex-start;">
+<div style="display:flex; gap:40px; align-items:flex-start;">
 
 <div style="flex:1;">
 
+<p>
 Developed a Python workflow to automate post-processing of computational fluid dynamics (CFD) simulation data, including pressure drop calculation, Reynolds number estimation, flow regime classification, and visualization of velocity and temperature distributions.
+</p>
 
-**Key Features**
+<b>Key Features</b>
 
-- Import CFD simulation data from CSV files  
-- Automatic pressure drop calculation  
-- Reynolds number estimation based on velocity data  
-- Flow regime classification (laminar / transitional / turbulent)  
-- Visualization of velocity and temperature distributions  
+<ul>
+<li>Import CFD simulation data from CSV files</li>
+<li>Automatic pressure drop calculation</li>
+<li>Reynolds number estimation based on velocity data</li>
+<li>Flow regime classification (laminar / transitional / turbulent)</li>
+<li>Visualization of velocity and temperature distributions</li>
+</ul>
 
 </div>
 
-<div style="flex:1;">
+<div style="flex:1; text-align:center;">
 
-**Example Output**
+<b>Example Outputs</b>
 
-<img src="velocity_profile.png" width="100%">
+<br><br>
 
-<img src="temperature_profile.png" width="100%">
+<img src="velocity_profile.png" width="85%">
+
+<br><br>
+
+<img src="temperature_profile.png" width="85%">
 
 </div>
 
