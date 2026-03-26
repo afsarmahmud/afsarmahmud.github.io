@@ -24,6 +24,52 @@ Coupled **CFD and FEA workflows** were used to optimize evaporator geometry, air
 - ~3 weeks reduction in design iteration time  
 
 ---
+## SLA Prototyping as a Functional Validation Surrogate for Injection-Molded Components
+
+<div style="display:flex; gap:40px; align-items:flex-start;">
+
+<div style="flex:1;">
+
+<p>
+Developed a systematic prototyping and dimensional validation methodology to evaluate stereolithography (SLA) prototypes as functional surrogates for injection-molded components in appliance product development. The approach involved comparative analysis between CAD nominal geometry, SLA prototype dimensions, and final injection-molded parts across more than 100 components including door caps, handles, base stands, and thermostat knobs.
+</p>
+
+<b>Key Contributions</b>
+
+<ul>
+<li>Developed a three-stage validation workflow: CAD → SLA prototype → injection-molded part</li>
+<li>Quantified SLA dimensional accuracy within 0.2–0.3 mm deviation from CAD nominal for standard geometries</li>
+<li>Identified tall-wall warping (>30–40 mm) due to residual stresses during photopolymerization</li>
+<li>Established design guidelines to mitigate deformation risks in SLA prototypes</li>
+<li>Developed reinforcement methodology using ABS/HIPS sheets (1.2–4 mm) for functional testing</li>
+</ul>
+
+<p>
+The methodology enabled reliable pre-tooling validation of form, fit, and assembly, reducing tooling risk and improving design verification efficiency in appliance product development.
+</p>
+
+</div>
+
+<div style="flex:1; text-align:center;">
+
+<b>Project Outputs</b>
+
+<br><br>
+
+<img src="sla_prototype_parts.jpg" width="75%">
+
+<br><br>
+
+<img src="cad_sla_comparison.jpg" width="75%">
+
+<br><br>
+
+<img src="sla_reinforced_testing.jpg" width="75%">
+
+</div>
+
+</div>
+---
 
 ### Topology Optimization of Injection-Molded Structural Components for 190L Refrigerator Development  
 *Lead R&D Engineer — Walton Hi-Tech Industries PLC*
