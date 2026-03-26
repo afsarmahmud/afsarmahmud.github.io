@@ -26,10 +26,6 @@ Coupled **CFD and FEA workflows** were used to optimize evaporator geometry, air
 ---
 ## SLA Prototyping as a Functional Validation Surrogate for Injection-Molded Components
 
-<div style="display:flex; gap:40px; align-items:flex-start;">
-
-<div style="flex:1;">
-
 <p>
 Developed a systematic prototyping and dimensional validation methodology to evaluate stereolithography (SLA) prototypes as functional surrogates for injection-molded components in appliance product development. The approach involved comparative analysis between CAD nominal geometry, SLA prototype dimensions, and final injection-molded parts across more than 100 components including door caps, handles, base stands, and thermostat knobs.
 </p>
@@ -45,30 +41,30 @@ Developed a systematic prototyping and dimensional validation methodology to eva
 </ul>
 
 <p>
-The methodology enabled reliable pre-tooling validation of form, fit, and assembly, reducing tooling risk and improving design verification efficiency in appliance product development.
+The methodology enabled reliable pre-tooling validation of form, fit, and assembly, reducing tooling risk and improving design verification efficiency in appliance product development workflows.
 </p>
 
-</div>
+<br>
 
-<div style="flex:1; text-align:center;">
-
-<b>Project Outputs</b>
+<b>Project Images</b>
 
 <br><br>
 
-<img src="sla_prototype_parts.jpg" width="75%">
+<figure>
+<img src="sla_prototype_parts.jpg" width="70%">
+<figcaption>
+SLA prototypes used for dimensional validation prior to injection molding tooling.
+</figcaption>
+</figure>
 
-<br><br>
+<br>
 
-<img src="cad_sla_comparison.jpg" width="75%">
-
-<br><br>
-
-<img src="sla_reinforced_testing.jpg" width="75%">
-
-</div>
-
-</div>
+<figure>
+<img src="cad_sla_comparison.jpg" width="70%">
+<figcaption>
+Comparison of CAD nominal geometry, SLA prototype, and final injection-molded component.
+</figcaption>
+</figure>
 ---
 
 ### Topology Optimization of Injection-Molded Structural Components for 190L Refrigerator Development  
