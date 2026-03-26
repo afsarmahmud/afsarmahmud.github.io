@@ -164,14 +164,62 @@ This project focused on the **thermal system redesign of upright freezer platfor
 ---
 ## Thermal-Fluid Research
 
-### Transient CFD Analysis of a Closed-Loop Pulsating Heat Pipe (CLPHP)  
-*Accepted — ICMMPE 2026*
+## Transient CFD Analysis of a Closed Loop Pulsating Heat Pipe
 
-This research presents a **transient multiphase CFD investigation** of a closed-loop pulsating heat pipe, aimed at understanding the thermo-hydrodynamic mechanisms governing oscillatory heat transfer performance. A **Volume of Fluid (VOF)** framework was implemented to capture vapor–liquid interface dynamics, phase change behavior, and pressure–temperature coupling.
+<div style="display:flex; gap:40px; align-items:flex-start;">
 
-Parametric studies examined the effects of **evaporator heat flux, filling ratio, and condenser temperature** on oscillation stability and thermal resistance. Model validation was performed through sensitivity analysis and comparison with established experimental and numerical literature.
+<div style="flex:1;">
 
-This work strengthened my expertise in **multiphysics modeling, numerical validation, and interpretation of complex transient phenomena**, which directly informs my broader research in coupled thermal–mechanical systems.
+<p>
+Performed transient multiphase CFD simulations to investigate the thermo-hydrodynamic behavior of a closed-loop pulsating heat pipe (CLPHP). The study focused on understanding the oscillatory motion of liquid–vapor slugs, phase distribution dynamics, and heat transfer performance under varying operating conditions including evaporator heat flux, condenser temperature, and working fluid filling ratio.
+</p>
+
+<b>Key Contributions</b>
+
+<ul>
+<li>Conducted transient multiphase simulations to analyze oscillatory flow behavior in pulsating heat pipes</li>
+<li>Evaluated the influence of evaporator heat flux on phase distribution inside the channel</li>
+<li>Analyzed condenser heat transfer performance for different condenser temperature conditions</li>
+<li>Investigated the effect of working fluid filling ratio on vapor–liquid flow structure</li>
+<li>Visualized transient phase distribution and heat transfer characteristics using CFD post-processing</li>
+</ul>
+
+</div>
+
+<div style="flex:1; text-align:center;">
+
+<b>Simulation Results</b>
+
+<br><br>
+
+<figure>
+<img src="php_heat_flux_volume_fraction.png" width="85%">
+<figcaption>
+Effect of evaporator heat flux on the volume fraction distribution of water inside the channel at 5 seconds.
+</figcaption>
+</figure>
+
+<br>
+
+<figure>
+<img src="php_condenser_heat_transfer.png" width="85%">
+<figcaption>
+Variation of condenser heat transfer rate for different condenser temperature conditions.
+</figcaption>
+</figure>
+
+<br>
+
+<figure>
+<img src="php_filling_ratio_contour.png" width="85%">
+<figcaption>
+Volume fraction contours of vapor and water for different filling ratios in the pulsating heat pipe.
+</figcaption>
+</figure>
+
+</div>
+
+</div>
 
 ---
 ## Python-Based CFD Post-Processing for Pipe Flow Analysis
