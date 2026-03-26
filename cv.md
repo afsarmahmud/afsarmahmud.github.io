@@ -34,7 +34,7 @@ Walton Hi-Tech Industries PLC
 ## Publications
 **Mahmud, A., Zin Noor, M. J., Inam, M. I.**  
 *Transient CFD Analysis of Operational Parameters on a Closed-Loop Pulsating Heat Pipe (CLPHP) Performance.*  
-Accepted — *3rd International Conference on Mechanical, Manufacturing and Process Engineering (ICMMPE 2026)*
+Presented — *3rd International Conference on Mechanical, Manufacturing and Process Engineering (ICMMPE 2026)*
 
 ---
 
