@@ -67,6 +67,68 @@ Comparison of CAD nominal geometry, SLA prototype, and final injection-molded co
 </figure>
 ---
 
+## Thermo-Mechanical Stress Analysis of Thin Steel Tubing Under Constrained Thermal Expansion
+
+<div style="display:flex; gap:40px; align-items:flex-start;">
+
+<div style="flex:1;">
+
+<p>
+Performed coupled thermo-mechanical finite element analysis in Abaqus to investigate thermal expansion and constraint-induced stress development in thin-walled steel tubing. The model incorporated temperature-dependent thermal strain behavior under fixed-end boundary conditions to evaluate displacement and von Mises stress distribution during uniform heating.
+</p>
+
+<b>Key Activities</b>
+
+<ul>
+<li>3D solid modeling and meshing in Abaqus</li>
+<li>Material and thermal property assignment</li>
+<li>Static coupled thermal-structural analysis</li>
+<li>Thermal expansion and stress evaluation</li>
+<li>Post-processing of displacement and stress contours</li>
+</ul>
+
+<p>
+The simulation predicted a maximum thermal expansion of approximately <b>0.54 mm</b> under a <b>150°C</b> temperature rise, consistent with analytical thermal expansion calculations.
+</p>
+
+</div>
+
+<div style="flex:1; text-align:center;">
+
+<b>Simulation Results</b>
+
+<br><br>
+
+<figure>
+<img src="tube_stress_contour.png" width="85%">
+<figcaption>
+Von Mises stress distribution showing stress concentration near the constrained region during thermal expansion.
+</figcaption>
+</figure>
+
+<br>
+
+<figure>
+<img src="tube_displacement_contour.png" width="85%">
+<figcaption>
+Thermal displacement distribution along the tube length under uniform heating conditions.
+</figcaption>
+</figure>
+
+<br>
+
+<figure>
+<img src="tube_mesh.png" width="85%">
+<figcaption>
+Finite element mesh used for thermo-mechanical analysis of the thin-walled steel tube.
+</figcaption>
+</figure>
+
+</div>
+
+</div>
+---
+
 ### Topology Optimization of Injection-Molded Structural Components for 190L Refrigerator Development  
 *Lead R&D Engineer — Walton Hi-Tech Industries PLC*
 
