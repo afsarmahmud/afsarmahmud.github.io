@@ -103,26 +103,26 @@ Explicit dynamic and topology-informed redesign workflow for polymer structural 
 <div style="flex:1;">
 
 <p>
-Investigating fatigue-life prediction methodologies for refrigerator structural components subjected to cyclic operational loading. The project integrates finite element stress analysis with fatigue-life estimation techniques to evaluate long-term durability, identify high-risk failure locations, and improve reliability prediction under repeated service loading conditions.
+Investigating durability-oriented structural analysis methodologies for refrigerator components subjected to repeated operational loading conditions. The project integrates finite element structural analysis with lifecycle-oriented durability evaluation to study deformation response, long-term structural reliability, and design robustness under cyclic service loading.
 </p>
 
 <b>Research Focus</b>
 
 <ul>
-<li>Stress-life (S-N) fatigue assessment using ANSYS nCode DesignLife</li>
-<li>Cyclic load mapping and identification of high-duty stress regions</li>
-<li>Automated fatigue hotspot detection and crack-initiation analysis</li>
-<li>Damage accumulation evaluation under repeated loading conditions</li>
-<li>Durability-oriented simulation workflow development</li>
-<li>Bridging deterministic FEA and reliability-focused structural assessment</li>
+<li>Durability-oriented deformation analysis under cyclic operational loading</li>
+<li>Lifecycle evaluation using ANSYS nCode DesignLife workflows</li>
+<li>Repeated loading response assessment for structural reliability improvement</li>
+<li>Design iteration for deformation reduction and durability enhancement</li>
+<li>Correlation of deformation behavior with long-term structural performance</li>
+<li>Simulation-driven durability evaluation under production-oriented loading conditions</li>
 </ul>
 
 <p>
-The workflow combines ANSYS Static Structural analysis with fatigue post-processing using nCode DesignLife to estimate component lifespan under cyclic service conditions. Material fatigue behavior was characterized using stress-life methodology through S-N curve-based durability evaluation.
+The workflow combines ANSYS Static Structural analysis with nCode DesignLife-based lifecycle evaluation to assess deformation response and durability behavior under repeated service loading conditions. Structural performance was evaluated through simulation-driven design iteration and deformation-response comparison across multiple design configurations.
 </p>
 
 <p>
-A major focus of the work is understanding the limitation of deterministic structural simulation approaches in predicting real-world reliability behavior. While conventional FEA predicts structural response for a nominal loading condition, fatigue and durability analysis provide insight into damage accumulation, lifecycle variability, and long-term failure risk under operational loading histories.
+The work focused on evaluating long-term structural reliability through deformation-based durability assessment under repeated operational loading conditions. Simulation-driven design iteration was used to improve structural response consistency and reduce deformation accumulation during cyclic service loading.
 </p>
 
 </div>
@@ -136,7 +136,7 @@ A major focus of the work is understanding the limitation of deterministic struc
 <figure>
 <img src="fatigue_stress_distribution.png" width="85%">
 <figcaption>
-Stress distribution used to identify fatigue hotspot regions under cyclic loading conditions.
+Structural deformation response under cyclic operational loading conditions.
 </figcaption>
 </figure>
 
@@ -145,7 +145,7 @@ Stress distribution used to identify fatigue hotspot regions under cyclic loadin
 <figure>
 <img src="ncode_workflow.png" width="85%">
 <figcaption>
-Integrated ANSYS–nCode DesignLife workflow for fatigue-life prediction and damage accumulation analysis.
+Integrated ANSYS–nCode DesignLife workflow for durability and lifecycle evaluation.
 </figcaption>
 </figure>
 
@@ -154,7 +154,7 @@ Integrated ANSYS–nCode DesignLife workflow for fatigue-life prediction and dam
 <figure>
 <img src="fatigue_component_validation.png" width="85%">
 <figcaption>
-Structural component evaluated for long-term durability and cyclic loading performance.
+Design iteration and deformation-response assessment for long-term structural durability.
 </figcaption>
 </figure>
 
