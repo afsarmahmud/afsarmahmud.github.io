@@ -1,10 +1,10 @@
 ## Selected Research Projects
 
-My work focuses on manufacturing-aware computational engineering, where simulation, design optimization, prototyping, validation, and production constraints are treated as a coupled engineering workflow rather than isolated stages.
+My work focuses on manufacturing-aware computational engineering, where simulation, design optimization, prototyping, validation, and production constraints are treated as an integrated engineering workflow rather than isolated stages.
 
 The research direction across these projects can be summarized as:
 
-<b>Simulation → Optimization → Prototype Validation → Manufacturing Integration → Computational Automation</b>
+<b>Design → Simulation → Optimization → Prototype Validation → Manufacturing Integration → Experimental Correlation → Computational Automation</b>
 
 ---
 
@@ -27,36 +27,41 @@ Coupled CFD and FEA workflows were used to optimize evaporator geometry, airflow
 
 ---
 
-## FEA-Guided Structural Redesign of Refrigerator Components
+## Simulation-Driven Structural Design, Explicit Dynamics, and Experimental Validation of Refrigerator Components
 
 <div style="display:flex; gap:40px; align-items:flex-start;">
 
 <div style="flex:1;">
 
 <p>
-Conducted simulation-driven structural redesign and optimization of refrigerator structural components under operational and reliability loading conditions. The work integrated finite element analysis, stress-path-informed geometry reasoning, additive manufacturing validation, and production-oriented design iteration to improve stiffness distribution, durability, and manufacturability simultaneously.
+Conducted simulation-driven structural redesign and optimization of refrigerator structural components under operational and reliability loading conditions. The work integrated CAD-based geometry development, finite element analysis, stress-path-informed structural reasoning, explicit dynamic impact simulation, additive manufacturing validation, and production-oriented design iteration to improve stiffness distribution, durability, and manufacturability simultaneously.
+</p>
+
+<p>
+A major focus of the work was establishing correlation between computational prediction and real-world structural response through prototype manufacturing and experimental validation. Structural designs developed through CAD and simulation workflows were physically manufactured and subjected to functional loading, drop-test, and durability validation to evaluate deformation behavior, impact survivability, and structural reliability under production conditions.
 </p>
 
 <b>Research Focus</b>
 
 <ul>
-<li>FEA-guided stiffness redistribution through geometry modification</li>
-<li>Stress-path-informed structural optimization</li>
-<li>Static structural and explicit dynamic simulations</li>
-<li>Topology-inspired rib and wall-thickness optimization</li>
-<li>Design-for-manufacturing (DFM/DFMEA) integration</li>
-<li>Additive manufacturing-assisted design validation</li>
+<li>CAD-driven structural redesign and manufacturable geometry development</li>
+<li>Static structural, vibration, and explicit dynamic impact simulations</li>
+<li>Stress-path-informed topology and stiffness optimization</li>
+<li>Drop-test simulation and impact-response evaluation for polymer structures</li>
+<li>Prototype manufacturing and experimental structural validation</li>
+<li>Correlation of simulation predictions with physical testing results</li>
+<li>DFM/DFMEA-informed production-oriented design iteration</li>
 </ul>
 
 <p>
-Simulation workflows were used to evaluate deformation behavior, stress concentration, and impact durability under operational and drop-test loading conditions. Iterative redesign enabled substantial reduction in deformation while maintaining production feasibility.
+Simulation workflows were used to evaluate deformation behavior, stress concentration, vibration response, and impact durability under operational and drop-test loading conditions. Iterative redesign enabled substantial reduction in deformation while maintaining production feasibility and structural reliability.
 </p>
 
 </div>
 
 <div style="flex:1; text-align:center;">
 
-<b>Simulation Results</b>
+<b>Simulation & Validation Workflow</b>
 
 <br><br>
 
@@ -91,13 +96,77 @@ Explicit dynamic and topology-informed redesign workflow for polymer structural 
 
 ---
 
-# Additive Manufacturing & Prototype Validation
-
-## SLA Prototyping as a Functional Validation Surrogate for Injection-Molded Components
+## Fatigue Life Prediction & Durability Analysis of Refrigerator Components
 
 <div style="display:flex; gap:40px; align-items:flex-start;">
 
 <div style="flex:1;">
+
+<p>
+Investigating fatigue-life prediction methodologies for refrigerator structural components subjected to cyclic operational loading. The project integrates finite element stress analysis with fatigue-life estimation techniques to evaluate long-term durability, identify high-risk failure locations, and improve reliability prediction under repeated service loading conditions.
+</p>
+
+<b>Research Focus</b>
+
+<ul>
+<li>Stress-life (S-N) fatigue assessment using ANSYS nCode DesignLife</li>
+<li>Cyclic load mapping and identification of high-duty stress regions</li>
+<li>Automated fatigue hotspot detection and crack-initiation analysis</li>
+<li>Damage accumulation evaluation under repeated loading conditions</li>
+<li>Durability-oriented simulation workflow development</li>
+<li>Bridging deterministic FEA and reliability-focused structural assessment</li>
+</ul>
+
+<p>
+The workflow combines ANSYS Static Structural analysis with fatigue post-processing using nCode DesignLife to estimate component lifespan under cyclic service conditions. Material fatigue behavior was characterized using stress-life methodology through S-N curve-based durability evaluation.
+</p>
+
+<p>
+A major focus of the work is understanding the limitation of deterministic structural simulation approaches in predicting real-world reliability behavior. While conventional FEA predicts structural response for a nominal loading condition, fatigue and durability analysis provide insight into damage accumulation, lifecycle variability, and long-term failure risk under operational loading histories.
+</p>
+
+</div>
+
+<div style="flex:1; text-align:center;">
+
+<b>Durability Analysis Workflow</b>
+
+<br><br>
+
+<figure>
+<img src="fatigue_stress_distribution.png" width="85%">
+<figcaption>
+Stress distribution used to identify fatigue hotspot regions under cyclic loading conditions.
+</figcaption>
+</figure>
+
+<br><br>
+
+<figure>
+<img src="ncode_workflow.png" width="85%">
+<figcaption>
+Integrated ANSYS–nCode DesignLife workflow for fatigue-life prediction and damage accumulation analysis.
+</figcaption>
+</figure>
+
+<br><br>
+
+<figure>
+<img src="fatigue_component_validation.png" width="85%">
+<figcaption>
+Structural component evaluated for long-term durability and cyclic loading performance.
+</figcaption>
+</figure>
+
+</div>
+
+</div>
+
+---
+
+# Additive Manufacturing & Prototype Validation
+
+## SLA Prototyping as a Functional Validation Surrogate for Injection-Molded Components
 
 <p>
 Developed a systematic prototyping and dimensional validation methodology to evaluate stereolithography (SLA) prototypes as functional surrogates for injection-molded appliance components. The workflow established a rapid pre-tooling validation framework connecting CAD geometry, additive manufacturing, and production-part verification.
@@ -117,16 +186,14 @@ Developed a systematic prototyping and dimensional validation methodology to eva
 The methodology enabled rapid validation of form, fit, assembly, and structural feasibility prior to tooling investment, reducing manufacturing risk and accelerating product development iteration cycles.
 </p>
 
-</div>
-
-<div style="flex:1; text-align:center;">
+<br>
 
 <b>Prototype Validation Workflow</b>
 
 <br><br>
 
 <figure>
-<img src="sla_prototype_parts.jpg" width="75%">
+<img src="sla_prototype_parts.jpg" width="70%">
 <figcaption>
 SLA prototypes used for dimensional and assembly validation prior to tooling.
 </figcaption>
@@ -135,15 +202,11 @@ SLA prototypes used for dimensional and assembly validation prior to tooling.
 <br><br>
 
 <figure>
-<img src="cad_sla_comparison.jpg" width="75%">
+<img src="cad_sla_comparison.jpg" width="70%">
 <figcaption>
 Comparison between CAD geometry, SLA prototype, and final injection-molded component.
 </figcaption>
 </figure>
-
-</div>
-
-</div>
 
 ---
 
